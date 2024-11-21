@@ -1,0 +1,5 @@
+salt (3005.5+ds-1) stable; urgency=medium
+
+  * Build of Salt 3005.5 for Python 3
+
+ -- Salt Project Packaging <saltproject-packaging@vmware.com>  Mon, 29 Jan 2024 19:15:53 +0000

@@ -1,0 +1,5 @@
+diff --git a/requirements/base.txt b/requirements/base.txt
+--- a/requirements/base.txt
++++ b/requirements/base.txt
+@@ -7 +6,0 @@ distro>=1.0.1
+-contextvars
